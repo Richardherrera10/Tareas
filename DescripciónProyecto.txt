@@ -1,0 +1,10 @@
+Descripción del programa
+El problema se trata de una empresa de cotizaciones que trata de automatizar su proceso de cálculo de cotizaciones. Lo que el problema
+hace es lo siguiente: 
+Recibe el nombre y la edad del asegurado, si es mayor de edad entonces se procederá a hacer la cotización, de no ser mayor de edad
+no se podrá hacer la cotización. 
+Cuando se haya verificado la edad entonces el programa pregunta si está casado/a por que se aplicarán cargos extras por la pareja también. 
+Los cargos extras se harán en base a la edad del asegurado y de su pareja, si la tuviese.
+Luego se pregunta si tiene hijos o no, de tener hijos también se harán cargos extras en base a la cantidad de hijos. 
+Al final pregunta por el precio de su propiedad y por su salario ya que se harán cargos a base de esto también. 
+Para salir del programa de cotizaciones se escribirá la palabra salir al final, de seguir se escribe continuar.

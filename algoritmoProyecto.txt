@@ -1,0 +1,26 @@
+1. Escribir nombre.
+2. Escribir edad.
+3. De ser mayor de edad continuar, de lo contrario salir.
+    3.1. Se aplicará cargo por rango de edad. 
+        3.1.1. De tener entre 18 y 24 se aplicará 10% sobre la cotización base de 2000
+        3.1.2. De tener entre 24 y 49 se aplicará 20% sobre cotización base.
+        3.1.3. De tener más de 50 se aplicará 30%
+4. Se preguntará si está o no casado/casada
+5. De estar casado se preguntará la edad del cónyuge. 
+6. Se aplicarán los mismos cargos por edad que del asegurado. 
+    6.1. Se aplicará cargo por rango de edad. 
+        6.1.1. De tener entre 18 y 24 se aplicará 10% sobre la cotización base de 2000
+        6.1.2. De tener entre 24 y 49 se aplicará 20% sobre cotización base.
+        6.1.3. De tener más de 50 se aplicará 30%
+    6.2. De no estar casado se aplica un 0 al recargo. 
+7. Se preguntará si tiene o no hijos. 
+    7.1 De tener hijos se aplica un 20% sobre el número de hijos. 
+    7.2. De no tener hijos se aplica on 0 al recargo. 
+8. Pregunta por la cantidad en propiedades. 
+9. Se aplicará un 35% sobre la cantidad de propiedades.
+10. Se pregunta por el salario. 
+11. Se aplica un 5% sobre el salario. 
+12. Se suman a la cotización base los recargos por edad del asegurado, cónyuge, hijos, propiedades y salario
+13. Se pregunta si se desea continuar con más cotizaciones. 
+14. Si se desean hacer más cotizaciones escribir la palabra Continuar.
+14. De no querer hacer más cotizacinoes, se escribe Salir. 
