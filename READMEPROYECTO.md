@@ -9,7 +9,7 @@ Las partes del problema a considerar son las condiciones que nos da el enunciado
 cotización total cambiará. Se debe de especificar bien las condiciones en el código para que no haya un error de cálculo porque 
 puede llegar a ser muy perjudicial. Por ejemplo que los Ifs vayan anidados correctamente para determinar cuando entrar y salir del flujo.
 
-#**Qué se podría mejorar sobre el programa**
+# **Qué se podría mejorar sobre el programa**
 Lo que podría mejorar a mi programa es que solo permita escribir cierto tipo de datos y si se escribiesen un tipo diferente que el
 mismo programa muestre un error y que se cambie al dato correcto, por ejemplo que se escriba solo la palabra "Si" o "No" o que las 
 cantidad sean con números y sin comas. 
